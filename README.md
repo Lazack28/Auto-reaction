@@ -5,4 +5,15 @@ This is the auto reaction bot used only in telegram channels which only reacts o
 ## INSTRUCTIONS
 Fork this script then edit to what you want.
 Don't edit @Lazack_28 because when you do it won't work correctly
-The bot has also the ability to share the sorce code directly to telbotcreator website.
+The bot has also the ability to share the sorce code directly to telebotcreator website.
+****
+this script should be forked and edit then youbshould visit this website for making youre own reaction bot
+
+https://telebotcreator.com
+****
+add commands and should be written as follows
+
+/start
+
+/
+
