@@ -1,4 +1,4 @@
-# Auto-reaction
+<h1 align="center"> Auto reaction </h1>
 This is the auto reaction bot used only in telegram channels which only reacts on one message in each of the text in the channel, source code free to use.. still updating more features, this auto reaction bot is made by Mr Lazack. Don't forget to give me a star in every project of mine ✝️
 
 ****
