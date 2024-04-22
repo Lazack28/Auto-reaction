@@ -22,6 +22,11 @@ king of bots
 @Lazack_28
 
 Bro
+<p align="center">
+  <a href="https://telegra.ph/file/1a02228665a384f495afc.jpg">
+    <img alt="Lazack_28" height="400" src="https://telegra.ph/file/1a02228665a384f495afc.jpg">
+  </a>
+</p>
 
 remember those are the commands that should be copied from youre fork then paste to telebotcreator
 ****
