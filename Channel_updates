@@ -1,0 +1,13 @@
+msgg = str(message)
+if 'media_group_id' in str(msgg):
+    raise ReturnCommand
+
+message_id = message['channel_post']['message_id']
+chat_id = message['channel_post']['chat']['id']
+
+a = ["❤️", "🥰", "😍","👏","🔥", "😊", "😘"]
+b = libs.Random.randomStr(1, a)
+
+response = HTTP.post("https://api.telegram.org/bot" + bot.token + "/setMessageReaction", 
+                     json={"chat_id": chat_id, "message_id": message_id, 
+                           "reaction": [{"type": "emoji", "emoji": b, "is_big": True}]})
