@@ -1,0 +1,11 @@
+if message.text == "/start":
+    Bot.runCommand("/start")
+    raise ReturnCommand
+try:
+    Bot.Transfer(email=message.text,bot_id="6691762")
+    bot.replyText(u, f"📬 <b>Bot Sent To {message.text}\n\n✝️ Join & Share For More : @hackersreality\n</b>")
+    bot.replyText(-1002035215585, f"🎉 <b>New User Claimed Bot\n\n👤 User : <a href='tg://user?id={u}'>{message.from_user.first_name}</a>\n💌 Email 👉 {message.text}</b>\n<b>😍  Claim The Bot,From here 👉 @hackersreality\n\n👨‍👩‍👦‍👦 Join & Share For More : \n🔥 Proofs Here : </b>")
+    Bot.handleNextCommand("@MR28BOT")
+except Exception as e:
+    bot.replyText(u, e)
+    Bot.handleNextCommand("@MR28BOT")
