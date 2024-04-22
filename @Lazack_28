@@ -1,0 +1,4 @@
+keyboard = ReplyKeyboardMarkup(True)
+keyboard.row("/start")
+bot.replyText(u, "📧 <b>Send Your TeleBot Creator Email Where You Want To Get This Bot Codes \n\nThe Bot Will Send Through telebotcreator.com \n\n@hackersreality</b>",reply_markup=keyboard)
+Bot.handleNextCommand("Bro")
