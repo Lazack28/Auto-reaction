@@ -1,0 +1,1 @@
+bot.replyText(u,"❗ *I'm Auto Reaction Bot For Telegram Channel made by mr Lazack\n\n• @hackersreality\n• @MR28BOT*",parse_mode="markdown") 
