@@ -9,7 +9,7 @@ The bot has also the ability to share the sorce code directly to telebotcreator 
 ****
 this script should be forked and edit then you should visit this website for making youre own reaction bot
 
-https://telebotcreator.com
+[Create your bot](https://telebotcreator.com)
 ****
 add commands and should be written as follows
 
